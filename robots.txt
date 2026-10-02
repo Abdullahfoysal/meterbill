@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullahfoysal.github.io/MeterBillTracker/sitemap.xml
